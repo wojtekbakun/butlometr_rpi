@@ -1,0 +1,143 @@
+[
+    {
+        "id_city": "West Laura",
+        "id_boat": "ago",
+        "timestamp": "01-02-2024 06:49:36",
+        "panels": {
+            "panel_1": {
+                "tank_1": {
+                    "id_rfid": "577efe32-bba3-444c-916f-49be40b42305",
+                    "isActive": true,
+                    "isInPlace": false,
+                    "isInWater": true
+                },
+                "tank_2": {
+                    "id_rfid": "b3c2accb-5cac-4d83-bd9d-7056527ed5fa",
+                    "isActive": true,
+                    "isInPlace": false,
+                    "isInWater": false
+                },
+                "tank_3": {
+                    "id_rfid": "444bd375-e503-48f0-aed0-d0e137cfc2cd",
+                    "isActive": false,
+                    "isInPlace": true,
+                    "isInWater": true
+                }
+            },
+            "panel_2": {
+                "tank_2": {
+                    "id_rfid": "2af74824-fda1-4303-8680-7646a18b331f",
+                    "isActive": true,
+                    "isInPlace": false,
+                    "isInWater": true
+                },
+                "tank_3": {
+                    "id_rfid": "bc43a60b-3d8b-4d9d-8dcb-7eec81de859e",
+                    "isActive": false,
+                    "isInPlace": false,
+                    "isInWater": true
+                },
+                "tank_4": {
+                    "id_rfid": "60ae6ff9-7307-4575-a232-029ebd54ede5",
+                    "isActive": false,
+                    "isInPlace": false,
+                    "isInWater": false
+                }
+            }
+        }
+    },
+    {
+        "id_city": "Nicholsontown",
+        "id_boat": "hold",
+        "timestamp": "01-05-2024 05:44:05",
+        "panels": {
+            "panel_1": {
+                "tank_1": {
+                    "id_rfid": "ef9ca5cf-7d6c-442e-a59d-4771ec17ccb0",
+                    "isActive": true,
+                    "isInPlace": false,
+                    "isInWater": false
+                },
+                "tank_2": {
+                    "id_rfid": "92eeb80a-2a6c-4946-b4ab-926b7a5dfdfc",
+                    "isActive": false,
+                    "isInPlace": true,
+                    "isInWater": false
+                },
+                "tank_3": {
+                    "id_rfid": "099259e0-cfde-49e8-81b3-3c5fcd6f333e",
+                    "isActive": false,
+                    "isInPlace": true,
+                    "isInWater": true
+                }
+            },
+            "panel_2": {
+                "tank_2": {
+                    "id_rfid": "5c5163d8-2f75-462a-adf1-76c37d73d909",
+                    "isActive": false,
+                    "isInPlace": false,
+                    "isInWater": false
+                },
+                "tank_3": {
+                    "id_rfid": "cd0a7e04-a64e-4e69-b6f7-e6d81b73380c",
+                    "isActive": false,
+                    "isInPlace": true,
+                    "isInWater": true
+                },
+                "tank_4": {
+                    "id_rfid": "5ca935af-43fc-4490-bad9-93c6cd0a6748",
+                    "isActive": false,
+                    "isInPlace": false,
+                    "isInWater": false
+                }
+            }
+        }
+    },
+    {
+        "id_city": "Fitzgeraldbury",
+        "id_boat": "deal",
+        "timestamp": "01-02-2024 06:50:42",
+        "panels": {
+            "panel_1": {
+                "tank_1": {
+                    "id_rfid": "04139a28-7d6b-462b-ab43-4bac130c189b",
+                    "isActive": false,
+                    "isInPlace": true,
+                    "isInWater": true
+                },
+                "tank_2": {
+                    "id_rfid": "cdaa89f9-81a3-4669-979e-243bf07a3984",
+                    "isActive": false,
+                    "isInPlace": false,
+                    "isInWater": false
+                },
+                "tank_3": {
+                    "id_rfid": "1c03a7fe-6413-4cb5-8031-60e359bf0885",
+                    "isActive": true,
+                    "isInPlace": true,
+                    "isInWater": true
+                }
+            },
+            "panel_2": {
+                "tank_2": {
+                    "id_rfid": "7f019f77-2b6a-4c43-a28c-92801df067ef",
+                    "isActive": true,
+                    "isInPlace": false,
+                    "isInWater": true
+                },
+                "tank_3": {
+                    "id_rfid": "f56a3e74-7e85-4ba1-ab09-d2be73902e5f",
+                    "isActive": false,
+                    "isInPlace": false,
+                    "isInWater": true
+                },
+                "tank_4": {
+                    "id_rfid": "1eeaa557-8689-4445-a0dc-c33db4586c6a",
+                    "isActive": true,
+                    "isInPlace": false,
+                    "isInWater": true
+                }
+            }
+        }
+    }
+]
